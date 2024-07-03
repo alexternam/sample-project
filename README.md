@@ -1,5 +1,6 @@
 food ingredients
 pizza 
+rice
 fries
 burger
 chicken nuggets
